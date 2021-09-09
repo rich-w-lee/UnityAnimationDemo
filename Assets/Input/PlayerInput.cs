@@ -1,4 +1,4 @@
-// GENERATED AUTOMATICALLY FROM 'Assets/Animations/RootMotionDemo/PlayerInput.inputactions'
+// GENERATED AUTOMATICALLY FROM 'Assets/Input/PlayerInput.inputactions'
 
 using System;
 using System.Collections;
